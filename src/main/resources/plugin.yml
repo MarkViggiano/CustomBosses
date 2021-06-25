@@ -1,0 +1,18 @@
+name: CustomBosses
+description: Spawn custom bosses!
+author: Mark
+version: 1.0
+main: Main
+commands:
+  customboss:
+    description: Info about the plugin
+    usage: /custumboss
+  fight:
+    description: Join the fight against bosses
+    usage: /fight
+  spawnboss:
+    description: Spawn a boss
+    usage: /spawnboss <bossname>
+  scanworld:
+    description: Scan the world
+    usage: /scanworld
